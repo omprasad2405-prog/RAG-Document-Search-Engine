@@ -1,4 +1,4 @@
-# 📚 Document RAG Engine with ChromaDB & FastEmbed (GenAI Lab 3)
+# 📚 Document RAG Engine with ChromaDB & FastEmbed 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR_STREAMLIT_APP_LINK_HERE.streamlit.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
